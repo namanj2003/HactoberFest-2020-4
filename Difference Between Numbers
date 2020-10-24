@@ -22,3 +22,4 @@ int main()
     printf("\nDifference between %d and %d is = %d",a,b,diff);
     return 0;
 }
+Program created by Naman Jain
